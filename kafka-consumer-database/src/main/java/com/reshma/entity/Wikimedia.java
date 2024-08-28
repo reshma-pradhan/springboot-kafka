@@ -18,5 +18,4 @@ public class Wikimedia {
     @Column
     @Lob
     private String wikiEventData;
-
 }
